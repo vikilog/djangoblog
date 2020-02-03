@@ -135,6 +135,7 @@ p {
 
 .nav .nav-items .nav-link:hover a {
     color: var(--white);
+    text-decoration: none;
 }
 
 .nav .nav-brand a {
@@ -143,6 +144,7 @@ p {
     display: block;
     font-family: var(--Lexend);
     font-size: 1.6rem;
+    text-decoration: none;
 }
 
 .nav .social {
